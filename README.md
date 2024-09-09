@@ -10,18 +10,28 @@
 
 float mlx90640_get_temp_frame(uint8_t* buf)
 {
+
   float Ta, tr;
+  
   MLX90640_GetFrameData(MLX90640_I2C_ADDR, mlx90640_frame_data); // Получение данных
+  
   Ta = MLX90640_GetTa(mlx90640_frame_data, &mlx90640_parameters); // Ta
+  
   tr = Ta - TA_SHIFT;
+  
   MLX90640_CalculateTo(mlx90640_frame_data, &mlx90640_parameters, MLX90640_EMISSIVITY_STANDARD, tr, mlx90640_temp_frame); // Расчет тепловой картины
   
   for (uint16_t i = 0; i < 768; i++) // first send low 8bit and then high 8bit
   {
+  
     buf[i * 2] = BYTE_1((uint16_t)(mlx90640_temp_frame[i] * 100));		// Запись кадра в UART буффер
+    
     buf[i * 2 + 1] = BYTE_0((uint16_t)(mlx90640_temp_frame[i] * 100));
+    
   }
+  
   return Ta;
+  
 }
 
 # Затем полученный "buf" отправлять по UART через USB-UART в ПК.
