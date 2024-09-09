@@ -39,4 +39,9 @@ float mlx90640_get_temp_frame(uint8_t* buf)
 # 4. Начать отправлять данные с микроконтроллера
 Также, делюсь исходными файлами, может кому-то будут полезны. Писалось в Visual Studio Community 2022 winForms
 
+# Само приложение и полученные мною картинки:
+![Иллюстрация к проекту](https://github.com/dkobrusev/MLX90640_PC_Test/blob/main/MLXTEST.PNG)
 ![Иллюстрация к проекту](https://github.com/dkobrusev/MLX90640_PC_Test/blob/main/image_v2_1.png)
+![Иллюстрация к проекту](https://github.com/dkobrusev/MLX90640_PC_Test/blob/main/image_v2_2.png)
+![Иллюстрация к проекту](https://github.com/dkobrusev/MLX90640_PC_Test/blob/main/image_v2_3.png)
+![Иллюстрация к проекту](https://github.com/dkobrusev/MLX90640_PC_Test/blob/main/image_v2_4.png)
