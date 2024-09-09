@@ -40,8 +40,13 @@ float mlx90640_get_temp_frame(uint8_t* buf)
 Также, делюсь исходными файлами, может кому-то будут полезны. Писалось в Visual Studio Community 2022 winForms
 
 # Само приложение и полученные мною картинки:
+Приложение
 ![Иллюстрация к проекту](https://github.com/dkobrusev/MLX90640_PC_Test/blob/main/MLXTEST.PNG)
+Рука
 ![Иллюстрация к проекту](https://github.com/dkobrusev/MLX90640_PC_Test/blob/main/image_v2_1.png)
+Человек
 ![Иллюстрация к проекту](https://github.com/dkobrusev/MLX90640_PC_Test/blob/main/image_v2_2.png)
+2 Руки
 ![Иллюстрация к проекту](https://github.com/dkobrusev/MLX90640_PC_Test/blob/main/image_v2_3.png)
+2 Человека
 ![Иллюстрация к проекту](https://github.com/dkobrusev/MLX90640_PC_Test/blob/main/image_v2_4.png)
