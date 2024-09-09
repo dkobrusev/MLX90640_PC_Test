@@ -1,0 +1,30 @@
+C:\Users\kobry\OneDrive\Документы\Учеба\ДипломМ\Теплокамера\MLX90640_Test\MLX90640_Test\bin\Debug\MLX90640_Test.exe.config
+C:\Users\kobry\OneDrive\Документы\Учеба\ДипломМ\Теплокамера\MLX90640_Test\MLX90640_Test\bin\Debug\MLX90640_Test.exe
+C:\Users\kobry\OneDrive\Документы\Учеба\ДипломМ\Теплокамера\MLX90640_Test\MLX90640_Test\bin\Debug\MLX90640_Test.pdb
+C:\Users\kobry\OneDrive\Документы\Учеба\ДипломМ\Теплокамера\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.csproj.AssemblyReference.cache
+C:\Users\kobry\OneDrive\Документы\Учеба\ДипломМ\Теплокамера\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.Form1.resources
+C:\Users\kobry\OneDrive\Документы\Учеба\ДипломМ\Теплокамера\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.Properties.Resources.resources
+C:\Users\kobry\OneDrive\Документы\Учеба\ДипломМ\Теплокамера\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.csproj.GenerateResource.cache
+C:\Users\kobry\OneDrive\Документы\Учеба\ДипломМ\Теплокамера\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.csproj.CoreCompileInputs.cache
+C:\Users\kobry\OneDrive\Документы\Учеба\ДипломМ\Теплокамера\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.exe
+C:\Users\kobry\OneDrive\Документы\Учеба\ДипломМ\Теплокамера\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.pdb
+C:\Users\Sergey\Desktop\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.Form1.resources
+C:\Users\Sergey\Desktop\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.Properties.Resources.resources
+C:\Users\Sergey\Desktop\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.exe
+C:\Users\Sergey\Desktop\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.pdb
+C:\Users\Sergey\Desktop\MLX90640_Test\MLX90640_Test\bin\Debug\MLX90640_Test.exe.config
+C:\Users\Sergey\Desktop\MLX90640_Test\MLX90640_Test\bin\Debug\MLX90640_Test.exe
+C:\Users\Sergey\Desktop\MLX90640_Test\MLX90640_Test\bin\Debug\MLX90640_Test.pdb
+C:\Users\kobry\OneDrive\Рабочий стол\MLX90640_Test\MLX90640_Test\bin\Debug\MLX90640_Test.exe.config
+C:\Users\kobry\OneDrive\Рабочий стол\MLX90640_Test\MLX90640_Test\bin\Debug\MLX90640_Test.exe
+C:\Users\kobry\OneDrive\Рабочий стол\MLX90640_Test\MLX90640_Test\bin\Debug\MLX90640_Test.pdb
+C:\Users\kobry\OneDrive\Рабочий стол\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.csproj.AssemblyReference.cache
+C:\Users\kobry\OneDrive\Рабочий стол\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.Form1.resources
+C:\Users\kobry\OneDrive\Рабочий стол\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.Properties.Resources.resources
+C:\Users\kobry\OneDrive\Рабочий стол\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.csproj.GenerateResource.cache
+C:\Users\kobry\OneDrive\Рабочий стол\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.csproj.CoreCompileInputs.cache
+C:\Users\kobry\OneDrive\Рабочий стол\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.exe
+C:\Users\kobry\OneDrive\Рабочий стол\MLX90640_Test\MLX90640_Test\obj\Debug\MLX90640_Test.pdb
